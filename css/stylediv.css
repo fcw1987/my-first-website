@@ -1,0 +1,21 @@
+
+.blog {
+  width: 50%;
+  font-style: italic;
+}
+
+
+.first {
+  color: red;
+}
+.second {
+  color: blue;
+}
+.third {
+  color: green;
+}
+.am {
+  color: yellow;
+  background-color: red;
+  text-align: center;
+}
